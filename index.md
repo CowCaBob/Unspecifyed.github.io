@@ -33,7 +33,7 @@ description: "Explore my projects, skills, and professional journey."
 Explore my projects, skills, and professional journey through this site.
 
 <div class="nav-links">
-  <a href="{{ site.baseurl }}/about/">About Me</a>
-  <a href="{{ site.baseurl }}/resume/">Resume</a>
-  <a href="{{ site.baseurl }}/projects/">Projects</a>
+  <a href="{{ site.baseurl }}/about">About Me</a>
+  <a href="{{ site.baseurl }}/resume">Resume</a>
+  <a href="{{ site.baseurl }}/projects">Projects</a>
 </div>
